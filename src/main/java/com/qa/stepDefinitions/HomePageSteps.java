@@ -51,4 +51,9 @@ public class HomePageSteps extends TestBase {
 
 	}
 
+	@Then("close browser")
+	public void close_browser() {
+		driver.quit();
+	}
+
 }

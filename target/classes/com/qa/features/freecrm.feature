@@ -7,3 +7,4 @@ Then User is on login Page
 Then User logs into app
 Then Validate home page title
 Then Validate logged in user name
+Then close browser
